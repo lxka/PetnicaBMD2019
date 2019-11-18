@@ -1,6 +1,6 @@
 ## PetnicaBMD2019  :star2:
 
-#HPV DRUG SCREENING - EMILIJA MILIJIĆ# 
+# HPV DRUG SCREENING - EMILIJA MILIJIĆ # 
 
  Petnički učenički projekti realizovani na letnjem seminaru biomedicine 2019.
  
