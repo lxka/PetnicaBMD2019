@@ -1,0 +1,21 @@
+repaglinide GlideScore -4.30 kcal/mol
+
+ligand 23 GlideScore -3.38 kcal/mol
+
+
+(lek, afinitet vezivanja)
+bolazine -3.41 kcal/mol
+diflomatecan -3.82 kcal/mol
+vinleurosine -1.94 kcal/mol
+halcinonide -2.80 kcal/mol
+algestone acetophenide -2.85 kcal/mol
+amcinonide -3.17 kcal/mol
+mergocriptine -4.04 kcal/mol
+bolmantalate -3.48 kcal/mol
+lapisteride -3.34 kcal/mol
+deloxolone  -3.51 kcal/mol
+epicriptine -4.84 kcal/mol
+cinoxolone -3.26 kcal/mol
+triamcinolon benetonide -4.15 kcal/mol
+roxolonium -2.91 kcal/mol
+desoxycorticosterone pivalate -3.95 kcal/mol 
