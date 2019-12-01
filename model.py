@@ -31,16 +31,10 @@ import h5py
 np.set_printoptions(suppress=True)
 
 ########################################
-### Imports picture file into the model
+# Loading images from a pickle file
 ########################################
 
-# TumorA = astrocytoma = 0
-# TumorB = glioblastoma_multiforme = 1
-# TumorC = oligodendroglioma = 2
-# healthy = 3
-# unknown = 4
-
-f = open('full_dataset_final2.pkl', 'rb')
+f = open('slike.pkl', 'rb')
 print("pickle file open")
 
 ## Load from the file for X(image data) and Y(tumor type)
